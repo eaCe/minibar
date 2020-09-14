@@ -15,7 +15,7 @@ $element-hover-bg: lighten($color-a-dark, 5%);
     position: fixed;
     right: 0;
     bottom: 0;
-    z-index: 100000;
+    z-index: 999;
     padding-right: $minibar-height;
     color: $color-a;
     direction: ltr;
